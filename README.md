@@ -50,16 +50,16 @@ An autonomous multi-agent pipeline designed to ingest long-form technical inputs
   }
 }
 ```
-⚙️ Key Execution Features
-Deterministic Context Extraction: Uses semantic chunking to separate core technical insights from filler text.
+##⚙️ Key Execution Features
+* Deterministic Context Extraction: Uses semantic chunking to separate core technical insights from filler text.
 
-Format-Enforced Rendering: Outputs valid Markdown and structured JSON payloads for immediate API distribution.
+* Format-Enforced Rendering: Outputs valid Markdown and structured JSON payloads for immediate API distribution.
 
-Strict Style Guardrails: Removes common LLM buzzwords and maintains an authoritative, direct technical voice.
+* Strict Style Guardrails: Removes common LLM buzzwords and maintains an authoritative, direct technical voice.
 
-🚀 Production Deployment Blueprint
+##🚀 Production Deployment Blueprint
 This repository contains the open-source specification and schema definitions.
 
-To deploy the fully configured Relevance AI agent flow (including pre-built system prompts, step-by-step logic nodes, and error-handling triggers):
+To deploy the fully configured agent flow (including pre-built system prompts, step-by-step logic nodes, and error-handling triggers):
 
 👉 Get the production blueprint on The AI Software House Store
